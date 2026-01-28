@@ -1,4 +1,5 @@
 jupyter
+matplotlib
 open_spiel==1.6.9
 pygambit==16.5.0
 draw-tree @ git+https://github.com/gambitproject/draw_tree.git@v0.3.0
